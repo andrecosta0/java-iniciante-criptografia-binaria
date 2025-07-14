@@ -51,7 +51,8 @@ Este projeto é um trabalho acadêmico desenvolvido para a conclusão do semestr
 ## Autor
 
 André Costa Sampaio  
-[LinkedIn](https://www.linkedin.com/in/andre-costa-sampaio-328a78229/)
+- [LinkedIn - André Costa Sampaio](https://www.linkedin.com/in/andre-costa-sampaio-328a78229/)  
+- E-mail: andre.160402@gmail.com
 
 ---
 
